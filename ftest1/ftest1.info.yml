@@ -1,0 +1,4 @@
+name: 'ftest1'
+description: 'ftest1'
+core: 8.x
+type: module

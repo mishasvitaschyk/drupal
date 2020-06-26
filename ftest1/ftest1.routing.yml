@@ -1,0 +1,7 @@
+ftest1.example_form:
+  path: '/ftest1'
+  defaults:
+    _form:  '\Drupal\ftest1\Form\ftest1'
+    _title: 'Форма отправки сообщения на почту'
+  requirements:
+    _permission: 'access content'
